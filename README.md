@@ -37,17 +37,17 @@ This is a simple, cross-platform keylogger written in Python that captures keyst
     python keylogger.py
 The keylogger will begin logging keystrokes to log.txt in the current directory.
 4.  Logging Format
-The following keys are logged with their respective descriptions: \n
+The following keys are logged with their respective descriptions: 
 
-Backspace: [backspace]\n
-Enter: [enter]\n
-Shift: [shift]\n
-Control: [control]\n
-Caps Lock: [caps lock]\n
-Tab: [tab]\n
-Alt: [alt]\n
-Space: (logged as a space character)\n
-All other normal keys are logged as their character representation.
+- Backspace: [backspace]
+- Enter: [enter]
+- Shift: [shift]
+- Control: [control]
+- Caps Lock: [caps lock]
+- Tab: [tab]
+- Alt: [alt]
+- Space: (logged as a space character)
+- All other normal keys are logged as their character representation.
 
 To stop the keylogger, press the Escape key.
 
