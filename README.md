@@ -29,11 +29,12 @@ This is a simple, cross-platform keylogger written in Python that captures keyst
    git clone https://github.com/chandrakamalsingh007/PRODIGY_CS_04.git
    cd PRODIGY_CS_04
 2. Install the required dependencies:
-
+    ```bash
     pip install pynput
 
 3. Usage
     To start the keylogger, simply run the Python script:
+    ```bash
     python keylogger.py
 The keylogger will begin logging keystrokes to log.txt in the current directory.
 4.  Logging Format
